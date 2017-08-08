@@ -1,2 +1,4 @@
 # hello-word
-Primeiro repositório
+
+Olá!
+Sempre bom está em busca do conhecimento! ;)
